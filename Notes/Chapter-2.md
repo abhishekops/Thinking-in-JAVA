@@ -112,3 +112,4 @@
           * <code>StaticTest.i;</code>
         * Using the class name is the preferred way to refer to a static variable.
         * Constants vs Static variables ???
+* Javadoc ???
